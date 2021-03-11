@@ -1,5 +1,10 @@
-# Hang-man-in-MIPS
-Writte hang man game in assembly MIPS
+# HANG MAN GAME
+A small guessing word game that written by MIPS assembly with some function:
+- Player name input.
+- Guessing word by character or whole answer.
+- Drawing hang man when guessing wrong.
+- Save score every playing turn.
+- Show high score with sorting descending.
 
 ![Bintray](https://img.shields.io/badge/Step%201-Game%20rule-blue)
 
