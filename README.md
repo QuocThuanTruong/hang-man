@@ -54,3 +54,6 @@ A small guessing word game that written by MIPS assembly with some function:
 ![Bintray](https://img.shields.io/badge/Game-WIN-brightgreen)
 
 ![alt text](https://github.com/QuocThuanTruong/Hang-man-in-MIPS/blob/master/Img/win.png)
+
+### License
+Hang Man is available under the [MIT license](https://opensource.org/licenses/MIT) . See [LICENSE](https://github.com/QuocThuanTruong/HangMan/blob/master/LICENSE) for the full license text.
